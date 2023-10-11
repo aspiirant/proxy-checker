@@ -9,7 +9,7 @@ Dit is een Python-script dat de status van een lijst met proxies controleert. He
 
 ## Gebruiksaanwijzing
 
-1. Full de lijst genaamt: "proxy_list" met je proxy's die je wilt checken.
+1. Vul de lijst genaamt: "proxy_list" met je proxy's die je wilt checken.
 2. Run de script: `python proxychecker.py`
 
 De script slaat de werkende proxy's op in een bestand met de naam `available_proxies.txt`.
