@@ -34,7 +34,7 @@ def main():
 
             available_proxies = []
 
-            # check if the proxies are working
+            # loop through each proxy and check if they are working
             for proxy in proxies:
                 if check_proxy(proxy):
                     print(f"Proxy {proxy} is working!")
